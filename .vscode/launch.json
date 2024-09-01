@@ -1,0 +1,187 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "test.Client",
+            "projectName": "Java-Networking_97916abd"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "test.Server",
+            "projectName": "Java-Networking_97916abd"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Messaging.Client",
+            "projectName": "Java-Networking_97916abd"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Messaging.Server",
+            "projectName": "Java-Networking_97916abd"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "javafx.Hello",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "AddressGenerator",
+            "request": "launch",
+            "mainClass": "others.AddressGenerator",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "HostInfo",
+            "request": "launch",
+            "mainClass": "others.HostInfo",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Resolver",
+            "request": "launch",
+            "mainClass": "others.Resolver",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "TestHttpClient",
+            "request": "launch",
+            "mainClass": "others.TestHttpClient",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "TestHttpURL",
+            "request": "launch",
+            "mainClass": "others.TestHttpURL",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "tcpdiff.Client",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "tcpdiff.Server",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Client(1)",
+            "request": "launch",
+            "mainClass": "tcpforward.Client",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Server(1)",
+            "request": "launch",
+            "mainClass": "tcpforward.Server",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Client(2)",
+            "request": "launch",
+            "mainClass": "tcpobject.Client",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Server(2)",
+            "request": "launch",
+            "mainClass": "tcpobject.Server",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Client(3)",
+            "request": "launch",
+            "mainClass": "tcpsimple.Client",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Server(3)",
+            "request": "launch",
+            "mainClass": "tcpsimple.Server",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Client(4)",
+            "request": "launch",
+            "mainClass": "tcpstring.Client",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Server(4)",
+            "request": "launch",
+            "mainClass": "tcpstring.Server",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "DatagramClient",
+            "request": "launch",
+            "mainClass": "udp.DatagramClient",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "DatagramServer",
+            "request": "launch",
+            "mainClass": "udp.DatagramServer",
+            "projectName": "Java-Networking_97916abd",
+            "vmArgs": "--module-path \"C:\\Users\\sudip\\Downloads\\openjfx-20.0.2_windows-x64_bin-sdk\\javafx-sdk-20.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
